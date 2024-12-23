@@ -1,0 +1,3 @@
+/home/user/workiworki/453501/ОАИП/LR7/build_address/CMakeFiles/Project.dir
+/home/user/workiworki/453501/ОАИП/LR7/build_address/CMakeFiles/edit_cache.dir
+/home/user/workiworki/453501/ОАИП/LR7/build_address/CMakeFiles/rebuild_cache.dir

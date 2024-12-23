@@ -1,0 +1,1 @@
+/usr/bin/c++  -fsanitize=address -g CMakeFiles/MyProject.dir/main.cpp.o CMakeFiles/MyProject.dir/utils.cpp.o -o MyProject  -fsanitize=address 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -fsanitize=thread -g -fno-omit-frame-pointer CMakeFiles/Project.dir/main.cpp.o CMakeFiles/Project.dir/utils.cpp.o -o Project  -fsanitize=thread 

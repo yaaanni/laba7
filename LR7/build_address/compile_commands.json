@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/user/workiworki/453501/ОАИП/LR7/build_address",
+  "command": "/usr/bin/c++    -fsanitize=thread -g -fno-omit-frame-pointer -std=gnu++17 -fsanitize=thread -fno-omit-frame-pointer -o CMakeFiles/Project.dir/main.cpp.o -c /home/user/workiworki/453501/ОАИП/LR7/main.cpp",
+  "file": "/home/user/workiworki/453501/ОАИП/LR7/main.cpp",
+  "output": "CMakeFiles/Project.dir/main.cpp.o"
+},
+{
+  "directory": "/home/user/workiworki/453501/ОАИП/LR7/build_address",
+  "command": "/usr/bin/c++    -fsanitize=thread -g -fno-omit-frame-pointer -std=gnu++17 -fsanitize=thread -fno-omit-frame-pointer -o CMakeFiles/Project.dir/utils.cpp.o -c /home/user/workiworki/453501/ОАИП/LR7/utils.cpp",
+  "file": "/home/user/workiworki/453501/ОАИП/LR7/utils.cpp",
+  "output": "CMakeFiles/Project.dir/utils.cpp.o"
+}
+]
